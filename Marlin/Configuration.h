@@ -380,9 +380,9 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
   // D-bot
-  #define DEFAULT_Kp 17.75
-  #define DEFAULT_Ki 1.41
-  #define DEFAULT_Kd 55.84
+  #define DEFAULT_Kp 18.02
+  #define DEFAULT_Ki 1.37
+  #define DEFAULT_Kd 59.03
 
   // MakerGear
   //#define DEFAULT_Kp 7.0
